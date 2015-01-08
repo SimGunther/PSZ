@@ -1,0 +1,5 @@
+BRING <stdio.h>
+
+START
+  WRITE "Hello World!"
+END
