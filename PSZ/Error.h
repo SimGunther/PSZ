@@ -2,7 +2,7 @@
  * Error.h
  *
  *  Created on: Jan 13, 2015
- *      Author: Kevin-Lenovo
+ *      Author: Mr. SG
  */
 
 #ifndef ERROR_H_

@@ -2,7 +2,7 @@
  * Tokenizer.cpp
  *
  *  Created on: Jan 20, 2015
- *      Author: Kevin-Lenovo
+ *      Author: Mr. SG
  */
 
 #include "Tokenizer.h"

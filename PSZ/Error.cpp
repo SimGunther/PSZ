@@ -2,7 +2,7 @@
  * Error.cpp
  *
  *  Created on: Jan 13, 2015
- *      Author: Kevin-Lenovo
+ *      Author: Mr. SG
  */
 
 #include "Error.h"

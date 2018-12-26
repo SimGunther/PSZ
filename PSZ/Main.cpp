@@ -2,7 +2,7 @@
  * Main.cpp
  *
  *  Created on: Jan. 2015
- *      Author: Kevin
+ *      Author: Mr. SG
  */
 
 #include "Main.h"

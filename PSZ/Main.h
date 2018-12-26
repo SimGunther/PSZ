@@ -2,7 +2,7 @@
  * Main.h
  *
  *  Created on: Jan. 2015
- *      Author: Kevin
+ *      Author: Mr. SG
  */
 
 #ifndef MAIN_H_

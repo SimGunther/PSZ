@@ -2,7 +2,7 @@
  * Lexer.h
  *
  *  Created on: Jan. 2015
- *      Author: Kevin
+ *      Author: Mr. SG
  */
 
 #ifndef LEXER_H_

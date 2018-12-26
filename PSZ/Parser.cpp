@@ -2,7 +2,7 @@
  * Parser.cpp
  *
  *  Created on: Feb 3, 2015
- *      Author: Kevin-Lenovo
+ *      Author: Mr. SG
  */
 
 #include "Parser.h"

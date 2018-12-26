@@ -2,7 +2,7 @@
  * Lexer.cpp
  *
  *  Created on: Jan. 2015
- *      Author: Kevin
+ *      Author: Mr. SG
  */
 
 #include "Lexer.h"

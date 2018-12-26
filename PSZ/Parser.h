@@ -2,7 +2,7 @@
  * Parser.h
  *
  *  Created on: Feb 3, 2015
- *      Author: Kevin-Lenovo
+ *      Author: Mr. SG
  */
 
 #ifndef PARSER_H_
